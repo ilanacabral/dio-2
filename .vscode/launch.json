@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringWebMvcApplication<spring-web-mvc>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "br.com.diolabs.springwebmvc.SpringWebMvcApplication",
+            "projectName": "spring-web-mvc",
+            "args": ""
+        }
+    ]
+}
